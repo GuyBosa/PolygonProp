@@ -1,4 +1,4 @@
-# Angular Website Example
+# PolygonProp subsidiary store Website
 
 
 * Run `npm i` to install dependencies.
